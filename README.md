@@ -146,8 +146,6 @@ The detected plate is enlarged, converted to grayscale, enhanced, and thresholde
 
 **Karthik Golla**
 
-GitHub: https://github.com/karthikktgolla-coder
+## 📄 Project 
 
-## 📄 License
-
-This project is developed for educational and academic purposes.
+Number Plate Recognition
